@@ -8,4 +8,3 @@ The input to the system is a facial image, and the output is a predicted label (
 Solving this problem has practical applications in digital forensics, social media integrity, and cybersecurity.
 
 Link to the dataset: https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces<img width="468" height="53" alt="image" src="https://github.com/user-attachments/assets/314660fa-44de-4a83-91cd-6e1adfee49d4" />
-
